@@ -1,0 +1,98 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "SF Cartoonist Hand";
+
+}
+
+.con{
+    display: inline;
+}
+body{
+    background: linear-gradient(to bottom,  rgb(51,0,69));
+
+
+}
+
+.img1 {
+    
+    width: 20%;
+    right: 3rem;
+    margin: 4rem;
+    float: left;
+    
+    
+}
+
+.name
+{
+    height: 4rem;
+    background-color: purple;
+    color: white;   
+    text-align: center; 
+    
+}
+
+
+.container
+{
+    margin: 10rem;
+    border-left: 0.1rem solid gray;
+    border-bottom: 0.1rem solid gray;
+    box-shadow:1rem 1rem grey;
+    height: 30rem;
+    background-color: white;
+    
+}
+ul{
+    margin-top: 4rem;
+    font-size: 2rem;
+    list-style-type: none;
+    font-weight: 1000;
+    color: purple;
+    
+}
+li{
+    
+    padding: 1rem;
+    
+   
+}
+
+
+
+h1{
+    padding-top: 16rem;
+    font-size: 13rem;
+    text-shadow: 1rem 1rem black;
+    text-align: center;
+    color: white;
+}
+
+.header
+{
+    background-image: url(../img/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50rem;
+    box-shadow: 0px 10px grey;
+}
+
+.copyright{
+
+    background-color: purple;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.description
+{
+    padding-left: 3rem;
+    display: inline;
+    color: black;
+}
+
+
